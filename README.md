@@ -1,7 +1,9 @@
 # MVC Lecture
 
 This is an MVC lecture I created for my coworkers. Feel free to view the slides (including the flow charts) and download the source code:
+
 https://slides.com/robinherzig/mvc/
+
 https://github.com/100devs/todo-mvc
 
 ## What is MCV?
@@ -221,7 +223,9 @@ Again, let's work through a GET request so we can recognize the file structure b
 Hopefully you found this guide helpful to better understand MVC architecture.
 
 Remember, the slides (including the flow charts) and source code are both available:
+
 https://slides.com/robinherzig/mvc/
+
 https://github.com/100devs/todo-mvc
 
 In addition, feel free to message me if you have any questions or comments.
